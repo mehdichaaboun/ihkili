@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = "";
+const GOOGLE_SCRIPT_URL = "https://docs.google.com/spreadsheets/d/170sd_2ga_TC_EyX6ytkTd1lDajX2aVelU4w2qf-zQHY/edit?gid=0#gid=0";
 const PRICE_BY_QUANTITY = {
   1: "110 DH",
   2: "190 DH",
