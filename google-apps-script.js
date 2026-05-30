@@ -1,6 +1,6 @@
 const SHEET_NAME = "Commandes";
 const SPREADSHEET_ID = "170sd_2ga_TC_EyX6ytkTd1lDajX2aVelU4w2qf-zQHY";
-const NOTIFICATION_EMAIL = "onlinefootballmatch@gmail.com";
+const NOTIFICATION_EMAIL = "chaaboun.mhd@gmail.com";
 const HEADERS = [
   "Date",
   "Nom complet",
