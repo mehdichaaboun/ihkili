@@ -1,4 +1,8 @@
-const GOOGLE_SCRIPT_URL = "https://script.google.com/u/0/home/projects/1wjqk-TrpsDxIuJJXAj4_R3w0VmTOZ44Pk5ouaSdToUHkDxoEt6xrAuC0/edit";
+fetch("https://script.google.com/u/0/home/projects/1wjqk-TrpsDxIuJJXAj4_R3w0VmTOZ44Pk5ouaSdToUHkDxoEt6xrAuC0/edit", {
+  method: "POST",
+  body: formData
+})
+  
 const PRICE_BY_QUANTITY = {
   1: "110 DH",
   2: "190 DH",
