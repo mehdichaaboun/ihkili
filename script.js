@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = "https://script.google.com/u/0/home/projects/1wjqk-TrpsDxIuJJXAj4_R3w0VmTOZ44Pk5ouaSdToUHkDxoEt6xrAuC0/edit";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxYpz4iJaMBgGgngPpNwv9C8TYXTqrXpYI-yfJDDDBCSLv0I27F825rH-Tpmq_wN8Gg/exec";
 const PRICE_BY_QUANTITY = {
   1: "110 DH",
   2: "190 DH",
